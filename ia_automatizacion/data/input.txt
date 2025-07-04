@@ -1,0 +1,10 @@
+No puedo acceder a mi cuenta	Soporte Técnico
+Consulta sobre precios y promociones	Consultas Generales
+El producto llegó dañado	Reclamos
+Necesito ayuda con mi contraseña	Soporte Técnico
+¿Cuáles son los métodos de pago?	Consultas Generales
+Quiero devolver un artículo	Reclamos
+Me cobraron mal en la factura	Reclamos
+¿Cuánto demora el envío?	Consultas Generales
+No puedo instalar el software	Soporte Técnico
+Quiero cancelar mi suscripción	Consultas Generales
