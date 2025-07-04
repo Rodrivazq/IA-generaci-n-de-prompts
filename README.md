@@ -1,4 +1,4 @@
-# 🤖 Proyecto Final - IA: Generación de Prompts
+### 🤖 Proyecto Final - IA: Generación de Prompts
 
 Este proyecto demuestra cómo aplicar técnicas de Inteligencia Artificial para automatizar la clasificación de textos y generar prompts adaptados según su categoría. Se usaron herramientas de procesamiento de lenguaje natural, machine learning y la API de OpenAI para lograr una solución funcional, educativa y escalable.
 
@@ -60,15 +60,15 @@ python src/main.py
 
 El script lee los datos desde data/input.txt, entrena el modelo, clasifica nuevas entradas y genera un prompt usando la API de OpenAI (debes tener tu clave configurada en una variable de entorno).
 
-📊 Resultados
+## 📊 Resultados
 Precisión del modelo: >90% (con TF-IDF + Naive Bayes)
 
 El sistema puede adaptarse fácilmente a nuevas categorías o tipos de texto con pocos cambios.
 
-✍️ Autor
+## ✍️ Autor
 Rodrigo Vázquez
 Curso: Inteligencia Artificial - Coderhouse
 Julio 2025
 
-🛑 Licencia
+## 🛑 Licencia
 Este proyecto es de uso educativo. No usar en producción sin revisión adicional.
